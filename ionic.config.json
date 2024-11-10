@@ -1,0 +1,7 @@
+{
+  "name": "national-representation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
